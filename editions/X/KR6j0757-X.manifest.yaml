@@ -1,0 +1,1030 @@
+canonical_identifier: bkk:krp/KR6j0757/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0757/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瑜伽燄口註集纂要儀軌
+  identifiers:
+    krp: KR6j0757
+    cbeta: X59n1084
+    cbeta_old_id: X59n1084
+    authorityid: CA0003833
+    json_key: X1084
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1084.xml
+    old_id: X59n1084
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0757_000-X.yaml, hash: 'sha256:5c4045466195ee9c1ee2ccdecefc62c4633cfe962a788357b746eb34bc197cda'}
+  - {seq: 1, filename: KR6j0757_001-X.yaml, hash: 'sha256:5fa89b14697841d498dd67bd8907281137f1f6930beeb8063c27dbcbef7c6c7e'}
+  - {seq: 2, filename: KR6j0757_002-X.yaml, hash: 'sha256:d6f95e8a95d69485e51fcc392f91f3296df2b00263dc547f81be4b3abe18c1c8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0757_000-X.markers.yaml, hash: 'sha256:9484a0828632cb90a63d819fc8e2c35a559ddff79a0b32bf317f84b050312d6d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0757_001-X.markers.yaml, hash: 'sha256:b473e535a1b4ccd50c7b2aff5ecb18b3bc77fe0cc78ec37388b21936b3616956'}
+  - {seq: 2, role: markers, filename: assets/KR6j0757_002-X.markers.yaml, hash: 'sha256:171dd0fae87afb5a2e58d2cc998827e1c9465e0b776ba94c882c7c388689591e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0757_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1084-A 纂要序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0757_X_000-mulu-2
+    span:
+    - front
+    - 129
+    - 129
+  label: No. 1084-1 瑜伽𦦨口儀軌六則
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0757_X_000-mulu-3
+    span:
+    - front
+    - 148
+    - 148
+  label: 瑜伽密教
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0757_X_000-mulu-4
+    span:
+    - front
+    - 315
+    - 315
+  label: 壇儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0757_X_000-mulu-5
+    span:
+    - front
+    - 913
+    - 913
+  label: 阿闍黎
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0757_X_000-mulu-6
+    span:
+    - front
+    - 1157
+    - 1157
+  label: 觀菩提心
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0757_X_000-mulu-7
+    span:
+    - front
+    - 1436
+    - 1436
+  label: 字種
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0757_X_000-mulu-8
+    span:
+    - front
+    - 1630
+    - 1630
+  label: 手印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9173
+  label: 瑜伽𦦨口註集纂要儀軌卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-1
+    span:
+    - body
+    - 30
+    - 30
+  label: 吉祥會啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-2
+    span:
+    - body
+    - 79
+    - 79
+  label: 雲來集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-3
+    span:
+    - body
+    - 192
+    - 192
+  label: 香雲盖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-4
+    span:
+    - body
+    - 240
+    - 240
+  label: 登寶座
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-5
+    span:
+    - body
+    - 526
+    - 526
+  label: 甘露王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-6
+    span:
+    - body
+    - 557
+    - 557
+  label: 淨法界真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-7
+    span:
+    - body
+    - 953
+    - 953
+  label: 點淨真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-8
+    span:
+    - body
+    - 1140
+    - 1140
+  label: 加持花米真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-9
+    span:
+    - body
+    - 1238
+    - 1238
+  label: 加持鈴杵真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-10
+    span:
+    - body
+    - 1617
+    - 1617
+  label: 降魔偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-11
+    span:
+    - body
+    - 1831
+    - 1831
+  label: 十二因緣呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-12
+    span:
+    - body
+    - 1932
+    - 1932
+  label: 加持灌頂真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-13
+    span:
+    - body
+    - 2030
+    - 2030
+  label: 上師三寶真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-14
+    span:
+    - body
+    - 2597
+    - 2597
+  label: 自性偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-15
+    span:
+    - body
+    - 2832
+    - 2832
+  label: 淨地偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-16
+    span:
+    - body
+    - 2953
+    - 2953
+  label: 音樂呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-17
+    span:
+    - body
+    - 3084
+    - 3084
+  label: 緣起文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-18
+    span:
+    - body
+    - 3710
+    - 3710
+  label: 輪圍山　鐵圍山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-19
+    span:
+    - body
+    - 4720
+    - 4720
+  label: 奉獻呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-20
+    span:
+    - body
+    - 4868
+    - 4868
+  label: 五供養
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-21
+    span:
+    - body
+    - 5267
+    - 5267
+  label: 音樂呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-22
+    span:
+    - body
+    - 5521
+    - 5521
+  label: 寶錯真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-23
+    span:
+    - body
+    - 5754
+    - 5754
+  label: 撒花米真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-24
+    span:
+    - body
+    - 5769
+    - 5769
+  label: 遣魔真言（一）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-25
+    span:
+    - body
+    - 5928
+    - 5928
+  label: 遣魔真言（二）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-26
+    span:
+    - body
+    - 5967
+    - 5967
+  label: 遣魔真言（三）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-27
+    span:
+    - body
+    - 6022
+    - 6022
+  label: 真空呪印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-28
+    span:
+    - body
+    - 6353
+    - 6353
+  label: 五供養
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-29
+    span:
+    - body
+    - 6619
+    - 6619
+  label: 音樂呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-30
+    span:
+    - body
+    - 6757
+    - 6757
+  label: 十二因緣呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-31
+    span:
+    - body
+    - 6855
+    - 6855
+  label: 曼拏囉偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-32
+    span:
+    - body
+    - 6895
+    - 6895
+  label: 曼拏囉真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-33
+    span:
+    - body
+    - 7443
+    - 7443
+  label: 三歸依讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-34
+    span:
+    - body
+    - 7732
+    - 7732
+  label: 眾等發廣大心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-35
+    span:
+    - body
+    - 7844
+    - 7844
+  label: 默念大輪明王呪七遍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-36
+    span:
+    - body
+    - 8537
+    - 8537
+  label: 奉請三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-37
+    span:
+    - body
+    - 8670
+    - 8670
+  label: 印現壇儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0757_X_001-mulu-38
+    span:
+    - body
+    - 9134
+    - 9134
+  label: 香雲蓋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 16852
+  label: 瑜伽𦦨口註集纂要儀軌卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-1
+    span:
+    - body
+    - 30
+    - 30
+  label: 偈讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-2
+    span:
+    - body
+    - 50
+    - 50
+  label: 般若心經一遍
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-3
+    span:
+    - body
+    - 364
+    - 364
+  label: 伸五供養
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-4
+    span:
+    - body
+    - 892
+    - 892
+  label: 次結運心供養印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-5
+    span:
+    - body
+    - 1266
+    - 1266
+  label: 次結獻佛印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-6
+    span:
+    - body
+    - 1413
+    - 1413
+  label: 次結變空印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-7
+    span:
+    - body
+    - 1647
+    - 1647
+  label: 次結奉食印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-8
+    span:
+    - body
+    - 1766
+    - 1766
+  label: 奉食偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-9
+    span:
+    - body
+    - 1853
+    - 1853
+  label: 三寶讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-10
+    span:
+    - body
+    - 1940
+    - 1940
+  label: 入禪定偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-11
+    span:
+    - body
+    - 1972
+    - 1972
+  label: 次入觀音禪定
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-12
+    span:
+    - body
+    - 2578
+    - 2578
+  label: 觀音禪定印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-13
+    span:
+    - body
+    - 4037
+    - 4037
+  label: 次結破地獄印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-14
+    span:
+    - body
+    - 4726
+    - 4726
+  label: 奉請地藏菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-15
+    span:
+    - body
+    - 6636
+    - 6636
+  label: 次結召請餓鬼印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-16
+    span:
+    - body
+    - 6940
+    - 6940
+  label: 次結召罪印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-17
+    span:
+    - body
+    - 7261
+    - 7261
+  label: 次結摧罪印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-18
+    span:
+    - body
+    - 7642
+    - 7642
+  label: 次結破定業印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-19
+    span:
+    - body
+    - 7933
+    - 7933
+  label: 次結懺悔滅罪印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-20
+    span:
+    - body
+    - 8151
+    - 8151
+  label: 次結妙色身如來施甘露印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-21
+    span:
+    - body
+    - 8319
+    - 8319
+  label: 次結開咽喉印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-22
+    span:
+    - body
+    - 8682
+    - 8682
+  label: 稱讚如來吉祥名號
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-23
+    span:
+    - body
+    - 8682
+    - 8682
+  label: 南無寶勝如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-24
+    span:
+    - body
+    - 8807
+    - 8807
+  label: 南無離怖畏如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-25
+    span:
+    - body
+    - 8879
+    - 8879
+  label: 南無廣博身如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-26
+    span:
+    - body
+    - 8942
+    - 8942
+  label: 南無妙色身如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-27
+    span:
+    - body
+    - 9001
+    - 9001
+  label: 南無多寶如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-28
+    span:
+    - body
+    - 9060
+    - 9060
+  label: 南無阿彌陀如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-29
+    span:
+    - body
+    - 9120
+    - 9120
+  label: 南無世間廣大威德自在光明如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-30
+    span:
+    - body
+    - 9341
+    - 9341
+  label: 次與汝等皈依三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-31
+    span:
+    - body
+    - 9436
+    - 9436
+  label: 次結三寶印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-32
+    span:
+    - body
+    - 9587
+    - 9587
+  label: 次與汝等發菩提心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-33
+    span:
+    - body
+    - 9659
+    - 9659
+  label: 次結發菩提心印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-34
+    span:
+    - body
+    - 9877
+    - 9877
+  label: 次與汝等受三昧耶戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-35
+    span:
+    - body
+    - 10539
+    - 10539
+  label: 次結三昧耶印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-36
+    span:
+    - body
+    - 10839
+    - 10839
+  label: 次結無量威德自在光明如來印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-37
+    span:
+    - body
+    - 11655
+    - 11655
+  label: 復結前印誦乳海真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-38
+    span:
+    - body
+    - 12035
+    - 12035
+  label: 次誦障施鬼真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-39
+    span:
+    - body
+    - 12691
+    - 12691
+  label: 次結普供養印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-40
+    span:
+    - body
+    - 13089
+    - 13089
+  label: 尊勝呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-41
+    span:
+    - body
+    - 14099
+    - 14099
+  label: 六字大明真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-42
+    span:
+    - body
+    - 14199
+    - 14199
+  label: 六趣偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-43
+    span:
+    - body
+    - 14554
+    - 14554
+  label: 發願迴向偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-44
+    span:
+    - body
+    - 14679
+    - 14679
+  label: 吉祥偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-45
+    span:
+    - body
+    - 15290
+    - 15290
+  label: 次結圓滿奉送印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-46
+    span:
+    - body
+    - 15462
+    - 15462
+  label: 金剛薩埵百字呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-47
+    span:
+    - body
+    - 15804
+    - 15804
+  label: 薜茘多文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-48
+    span:
+    - body
+    - 15978
+    - 15978
+  label: 迴向偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-49
+    span:
+    - body
+    - 16114
+    - 16114
+  label: No. 1084-B
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-50
+    span:
+    - body
+    - 16114
+    - 16114
+  label: 附增津濟疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-51
+    span:
+    - body
+    - 16580
+    - 16580
+  label: 附六道疏式
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0757_X_002-mulu-52
+    span:
+    - body
+    - 16649
+    - 16649
+  label: No. 1084-C 跋
+  type: mulu
+  level: 1
+hash: sha256:5da0ca3f56389f048da7916cc9b9f23a12445963f879013f8690bf3c27e8bdcc
