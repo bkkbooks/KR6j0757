@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0757_000.yaml, hash: 'sha256:e72e43b9a5028fb93a2dac8de03115dc988b8c40742fc3b3c06dc04181222902'}
+  - {seq: 0, filename: KR6j0757_000.yaml, hash: 'sha256:07c937c74624f018500b94b68dbd77eb0e9c4374ee2d11f9c811d64bab24ed1e'}
   - {seq: 1, filename: KR6j0757_001.yaml, hash: 'sha256:57dcc4a9ee5e2f91b538e7ab41d3f06a844fc8b56a9567564a53679daf8116f1'}
   - {seq: 2, filename: KR6j0757_002.yaml, hash: 'sha256:356c5df84855501acfaa5c98d92c3bcd89dd01ba20af39f984325eedf58d6454'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0757_000.markers.yaml, hash: 'sha256:6df7b929918b2c9d78ee0aa283b84538d7f886a720bb43760bfa02f4af5a5916'}
+  - {seq: 0, role: markers, filename: assets/KR6j0757_000.markers.yaml, hash: 'sha256:c062c97416ae2c7a53dec8ecb9af9024121acb1c5042fd6b7c4a21087078bc1b'}
   - {seq: 1, role: markers, filename: assets/KR6j0757_001.markers.yaml, hash: 'sha256:75d2fc0997a41e3e8482e816a70c93cfbff93759ef462f74647f790573856c95'}
   - {seq: 2, role: markers, filename: assets/KR6j0757_002.markers.yaml, hash: 'sha256:08eba62f63ad91802227375c204582224b49126113fee2243c91e1ccd2fa3f87'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0757_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1084-A 纂要序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0757_X_000-mulu-2
     span:
-    - front
+    - body
     - 129
     - 129
   label: No. 1084-1 瑜伽𦦨口儀軌六則
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0757_X_000-mulu-3
     span:
-    - front
+    - body
     - 148
     - 148
   label: 瑜伽密教
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0757_X_000-mulu-4
     span:
-    - front
+    - body
     - 315
     - 315
   label: 壇儀
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0757_X_000-mulu-5
     span:
-    - front
+    - body
     - 913
     - 913
   label: 阿闍黎
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0757_X_000-mulu-6
     span:
-    - front
+    - body
     - 1157
     - 1157
   label: 觀菩提心
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0757_X_000-mulu-7
     span:
-    - front
+    - body
     - 1436
     - 1436
   label: 字種
@@ -103,7 +103,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0757_X_000-mulu-8
     span:
-    - front
+    - body
     - 1630
     - 1630
   label: 手印
@@ -1029,7 +1029,7 @@ table_of_contents:
   label: No. 1084-C 跋
   type: mulu
   level: 1
-hash: sha256:c526cb6b290164c6f7f4da52ef9892e57fa3649fcda747c18c225d60e0765c6d
+hash: sha256:84d8688275d43cb1ffcc77e2b9ed98dcaa933ff36c42bfad2a433c1e0ce1dbdd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
